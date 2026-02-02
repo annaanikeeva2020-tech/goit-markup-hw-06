@@ -558,8 +558,7 @@ a {
 .features {
     /* padding: 120px 0; */
     padding-top: 96px;
-    padding-bottom: 96px;
-    
+    padding-bottom: 96px; 
 }
 
 .features-item {
@@ -583,7 +582,6 @@ a {
     display: flex;
     flex-direction: column; */
     display: none;
-    
 }
 
 /* .features-icon {
